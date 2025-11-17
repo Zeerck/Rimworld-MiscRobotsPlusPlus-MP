@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RPP_Production_Component.label>создать компонент робота</RPP_Production_Component.label>
+	<RPP_Production_Component.description>Производство компонентов роботов, которые используются в качестве логических схем в матрице роботов.</RPP_Production_Component.description>
+
+	<RPP_Production_Matrix_I.label>создать матрицу робота (Простая)</RPP_Production_Matrix_I.label>
+	<RPP_Production_Matrix_I.description>Создать Логическую матрицу 1-го уровня для создания робота с трудовым навыком 4.</RPP_Production_Matrix_I.description>
+	<RPP_Production_Matrix_II.label>создать матрицу робота (Базовая)</RPP_Production_Matrix_II.label>
+	<RPP_Production_Matrix_II.description>Создать Логическую матрицу 2-го уровня для создания робота с трудовым навыком 8.</RPP_Production_Matrix_II.description>
+	<RPP_Production_Matrix_III.label>создать матрицу робота (Промежуточная)</RPP_Production_Matrix_III.label>
+	<RPP_Production_Matrix_III.description>Создать Логическую матрицу 3-го уровня для создания робота с трудовым навыком 13.</RPP_Production_Matrix_III.description>
+	<RPP_Production_Matrix_IV.label>создать матрицу робота (Продвинутая)</RPP_Production_Matrix_IV.label>
+	<RPP_Production_Matrix_IV.description>Создать Логическую матрицу 4-го уровня для создания робота с трудовым навыком 16.</RPP_Production_Matrix_IV.description>
+	<RPP_Production_Matrix_V.label>создать матрицу робота (Антилогическая)</RPP_Production_Matrix_V.label>
+	<RPP_Production_Matrix_V.description>Создать Антилогическую матрицу 5-го уровня для создания робота с трудовым навыком 20.\nNP=P</RPP_Production_Matrix_V.description>
+
+	<RPP_Production_Cleaner_I.label>создать Бота-Уборщика (Ур. 1)</RPP_Production_Cleaner_I.label>
+	<RPP_Production_Cleaner_I.description>Создать бота, который будет подметать и убирать мусор.</RPP_Production_Cleaner_I.description>
+	<RPP_Production_Cleaner_II.label>создать Бота-Уборщика (Ур. 2)</RPP_Production_Cleaner_II.label>
+	<RPP_Production_Cleaner_II.description>Создать бота, который будет подметать и убирать мусор.</RPP_Production_Cleaner_II.description>
+	<RPP_Production_Cleaner_III.label>создать Бота-Уборщика (Ур. 3)</RPP_Production_Cleaner_III.label>
+	<RPP_Production_Cleaner_III.description>Создать бота, который будет подметать и убирать мусор.</RPP_Production_Cleaner_III.description>
+	<RPP_Production_Cleaner_IV.label>создать Бота-Уборщика (Ур. 4)</RPP_Production_Cleaner_IV.label>
+	<RPP_Production_Cleaner_IV.description>Создать бота, который будет подметать и убирать мусор.</RPP_Production_Cleaner_IV.description>
+	<RPP_Production_Cleaner_V.label>создать Бота-Уборщика (Ур. 5)</RPP_Production_Cleaner_V.label>
+	<RPP_Production_Cleaner_V.description>Создать бота, который будет подметать и убирать мусор.</RPP_Production_Cleaner_V.description>
+
+	<RPP_Production_Hauler_I.label>создать Бота-Переносчика (Ур. 1)</RPP_Production_Hauler_I.label>
+	<RPP_Production_Hauler_I.description>Создать бота, который будет заниматься переноской предметов.</RPP_Production_Hauler_I.description>
+	<RPP_Production_Hauler_II.label>создать Бота-Переносчика (Ур. 2)</RPP_Production_Hauler_II.label>
+	<RPP_Production_Hauler_II.description>Создать бота, который будет заниматься переноской предметов.</RPP_Production_Hauler_II.description>
+	<RPP_Production_Hauler_III.label>создать Бота-Переносчика (Ур. 3)</RPP_Production_Hauler_III.label>
+	<RPP_Production_Hauler_III.description>Создать бота, который будет заниматься переноской предметов.</RPP_Production_Hauler_III.description>
+	<RPP_Production_Hauler_IV.label>создать Бота-Переносчика (Ур. 4)</RPP_Production_Hauler_IV.label>
+	<RPP_Production_Hauler_IV.description>Создать бота, который будет заниматься переноской предметов.</RPP_Production_Hauler_IV.description>
+	<RPP_Production_Hauler_V.label>создать Бота-Переносчика (Ур. 5)</RPP_Production_Hauler_V.label>
+	<RPP_Production_Hauler_V.description>Создать бота, который будет заниматься переноской предметов.</RPP_Production_Hauler_V.description>
+
+	<RPP_Production_Builder_I.label>создать Бота-Строителя (Ур. 1)</RPP_Production_Builder_I.label>
+	<RPP_Production_Builder_I.description>Создайте бота, способного строить, демонтировать, добывать полезные ископаемые и ремонтировать с навыком строительства 4.</RPP_Production_Builder_I.description>
+	<RPP_Production_Builder_II.label>создать Бота-Строителя (Ур. 2)</RPP_Production_Builder_II.label>
+	<RPP_Production_Builder_II.description>Создайте бота, способного строить, демонтировать, добывать полезные ископаемые и ремонтировать с навыком строительства 8.</RPP_Production_Builder_II.description>
+	<RPP_Production_Builder_III.label>создать Бота-Строителя (Ур. 3)</RPP_Production_Builder_III.label>
+	<RPP_Production_Builder_III.description>Создайте бота, способного строить, демонтировать, добывать полезные ископаемые и ремонтировать с навыком строительства 13.</RPP_Production_Builder_III.description>
+	<RPP_Production_Builder_IV.label>создать Бота-Строителя (Ур. 4)</RPP_Production_Builder_IV.label>
+	<RPP_Production_Builder_IV.description>Создайте бота, способного строить, демонтировать, добывать полезные ископаемые и ремонтировать с навыком строительства 16.</RPP_Production_Builder_IV.description>
+	<RPP_Production_Builder_V.label>создать Бота-Строителя (Ур. 5)</RPP_Production_Builder_V.label>
+	<RPP_Production_Builder_V.description>Создайте бота, способного строить, демонтировать, добывать полезные ископаемые и ремонтировать с навыком строительства 20.</RPP_Production_Builder_V.description>
+
+	<RPP_Production_Crafter_I.label>создать Бота-Ремесленника (Ур. 1)</RPP_Production_Crafter_I.label>
+	<RPP_Production_Crafter_I.description>Создайте бота, способного заниматься ремеслом, кузнечномым делом и пошивом одежды с навыком ремесла 4.</RPP_Production_Crafter_I.description>
+	<RPP_Production_Crafter_II.label>создать Бота-Ремесленника (Ур. 2)</RPP_Production_Crafter_II.label>
+	<RPP_Production_Crafter_II.description>Создайте бота, способного заниматься ремеслом, кузнечномым делом и пошивом одежды с навыком ремесла 8.</RPP_Production_Crafter_II.description>
+	<RPP_Production_Crafter_III.label>создать Бота-Ремесленника (Ур. 3)</RPP_Production_Crafter_III.label>
+	<RPP_Production_Crafter_III.description>Создайте бота, способного заниматься ремеслом, кузнечномым делом и пошивом одежды с навыком ремесла 13.</RPP_Production_Crafter_III.description>
+	<RPP_Production_Crafter_IV.label>создать Бота-Ремесленника (Ур. 4)</RPP_Production_Crafter_IV.label>
+	<RPP_Production_Crafter_IV.description>Создайте бота, способного заниматься ремеслом, кузнечномым делом и пошивом одежды с навыком ремесла 16.</RPP_Production_Crafter_IV.description>
+	<RPP_Production_Crafter_V.label>создать Бота-Ремесленника (Ур. 5)</RPP_Production_Crafter_V.label>
+	<RPP_Production_Crafter_V.description>Создайте бота, способного заниматься ремеслом, кузнечномым делом и пошивом одежды с навыком ремесла 20.</RPP_Production_Crafter_V.description>
+
+
+	<RPP_Production_ER_I.label>создать Бота-Врача (Ур. 1)</RPP_Production_ER_I.label>
+	<RPP_Production_ER_I.description>Создать бота, способного лечить пациентов и тушить пожары с навыком врачевания 4.</RPP_Production_ER_I.description>
+	<RPP_Production_ER_II.label>создать Бота-Врача (Ур. 2)</RPP_Production_ER_II.label>
+	<RPP_Production_ER_II.description>Создать бота, способного лечить пациентов и тушить пожары с навыком врачевания 8.</RPP_Production_ER_II.description>
+	<RPP_Production_ER_III.label>создать Бота-Врача (Ур. 3)</RPP_Production_ER_III.label>
+	<RPP_Production_ER_III.description>Создать бота, способного лечить пациентов и тушить пожары с навыком врачевания 13.</RPP_Production_ER_III.description>
+	<RPP_Production_ER_IV.label>создать Бота-Врача (Ур. 4)</RPP_Production_ER_IV.label>
+	<RPP_Production_ER_IV.description>Создать бота, способного лечить пациентов и тушить пожары с навыком врачевания 16.</RPP_Production_ER_IV.description>
+	<RPP_Production_ER_V.label>создать Бота-Врача (Ур. 5)</RPP_Production_ER_V.label>
+	<RPP_Production_ER_V.description>Создать бота, способного лечить пациентов и тушить пожары с навыком врачевания 20.</RPP_Production_ER_V.description>
+
+	<RPP_Production_Kitchen_I.label>создать Бота-Повара (Ур. 1)</RPP_Production_Kitchen_I.label>
+	<RPP_Production_Kitchen_I.description>Создать бота, способного готовить и ухаживать за растениями с навыком работы 4.</RPP_Production_Kitchen_I.description>
+	<RPP_Production_Kitchen_II.label>создать Бота-Повара (Ур. 2)</RPP_Production_Kitchen_II.label>
+	<RPP_Production_Kitchen_II.description>Создать бота, способного готовить и ухаживать за растениями с навыком работы 8.</RPP_Production_Kitchen_II.description>
+	<RPP_Production_Kitchen_III.label>создать Бота-Повара (Ур. 3)</RPP_Production_Kitchen_III.label>
+	<RPP_Production_Kitchen_III.description>Создать бота, способного готовить и ухаживать за растениями с навыком работы 13.</RPP_Production_Kitchen_III.description>
+	<RPP_Production_Kitchen_IV.label>создать Бота-Повара (Ур. 4)</RPP_Production_Kitchen_IV.label>
+	<RPP_Production_Kitchen_IV.description>Создать бота, способного готовить и ухаживать за растениями с навыком работы 16.</RPP_Production_Kitchen_IV.description>
+	<RPP_Production_Kitchen_V.label>создать Бота-Повара (Ур. 5)</RPP_Production_Kitchen_V.label>
+	<RPP_Production_Kitchen_V.description>Создать бота, способного готовить и ухаживать за растениями с навыком работы 20.</RPP_Production_Kitchen_V.description>
+
+
+	<RPP_Production_Omni_I.label>создать Омни-Бота (Ур. 1)</RPP_Production_Omni_I.label>
+	<RPP_Production_Omni_I.description>Создать бота, способного выполнять работу всех остальных роботов с уровнем навыков 4.</RPP_Production_Omni_I.description>
+	<RPP_Production_Omni_II.label>создать Омни-Бота (Ур. 2)</RPP_Production_Omni_II.label>
+	<RPP_Production_Omni_II.description>Создать бота, способного выполнять работу всех остальных роботов с уровнем навыков 8.</RPP_Production_Omni_II.description>
+	<RPP_Production_Omni_III.label>создать Омни-Бота (Ур. 3)</RPP_Production_Omni_III.label>
+	<RPP_Production_Omni_III.description>Создать бота, способного выполнять работу всех остальных роботов с уровнем навыков 13.</RPP_Production_Omni_III.description>
+	<RPP_Production_Omni_IV.label>создать Омни-Бота (Ур. 4)</RPP_Production_Omni_IV.label>
+	<RPP_Production_Omni_IV.description>Создать бота, способного выполнять работу всех остальных роботов с уровнем навыков 16.</RPP_Production_Omni_IV.description>
+	<RPP_Production_Omni_V.label>создать Омни-Бота (Ур. 5)</RPP_Production_Omni_V.label>
+	<RPP_Production_Omni_V.description>Создать бота, способного выполнять работу всех остальных роботов с уровнем навыков 20.</RPP_Production_Omni_V.description>
+
+</LanguageData>

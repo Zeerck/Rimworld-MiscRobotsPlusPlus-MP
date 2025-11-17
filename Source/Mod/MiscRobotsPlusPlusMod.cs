@@ -1,12 +1,9 @@
 ﻿using HarmonyLib;
-
 using RimWorld;
-
 using System.Reflection;
-
 using UnityEngine;
-
 using Verse;
+using Multiplayer.API;
 
 namespace MiscRobotsPlusPlus;
 
@@ -17,7 +14,11 @@ public class MiscRobotsPlusPlusMod : Mod
 	{
 		Harmony har = new("MiscRobotsPlusPlus");
 		har.PatchAll(Assembly.GetExecutingAssembly());
-	}
+
+        if (!MP.enabled) return;
+
+        MP.RegisterAll();
+    }
 
 	public MiscRobotsPlusPlusMod(ModContentPack content) : base(content)
 	{

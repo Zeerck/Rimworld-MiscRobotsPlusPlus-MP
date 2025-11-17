@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!--[Duplicate]
+	<AIRobot_RechargeStation_Hauler.label>Станция Бота-Переносчика(I)</AIRobot_RechargeStation_Hauler.label>
+	<AIRobot_RechargeStation_Hauler.description>Данная станция оснащена специализированным простым ботом.</AIRobot_RechargeStation_Hauler.description>
+-->
+	<AIRobot_RechargeStation_Hauler_II.label>Станция Бота-Переносчика(II)</AIRobot_RechargeStation_Hauler_II.label>
+	<AIRobot_RechargeStation_Hauler_II.description>Данная станция оснащена специализированным базовым ботом.</AIRobot_RechargeStation_Hauler_II.description>
+	<AIRobot_RechargeStation_Hauler_III.label>Станция Бота-Переносчика(III)</AIRobot_RechargeStation_Hauler_III.label>
+	<AIRobot_RechargeStation_Hauler_III.description>Данная станция оснащена специализированным промежуточным ботом.</AIRobot_RechargeStation_Hauler_III.description>
+	<AIRobot_RechargeStation_Hauler_IV.label>Станция Бота-Переносчика(IV)</AIRobot_RechargeStation_Hauler_IV.label>
+	<AIRobot_RechargeStation_Hauler_IV.description>Данная станция оснащена специализированным продвинутым ботом.</AIRobot_RechargeStation_Hauler_IV.description>
+	<AIRobot_RechargeStation_Hauler_V.label>Станция Бота-Переносчика(V)</AIRobot_RechargeStation_Hauler_V.label>
+	<AIRobot_RechargeStation_Hauler_V.description>Данная станция оснащена специализированным ботом с Анти-Логикой.</AIRobot_RechargeStation_Hauler_V.description>
+
+<!--[Duplicate]
+	<AIRobot_RechargeStation_Cleaner.label>Станция Бота-Уборщика(I)</AIRobot_RechargeStation_Cleaner.label>
+	<AIRobot_RechargeStation_Cleaner.description>Данная станция оснащена специализированным простым ботом.</AIRobot_RechargeStation_Cleaner.description>
+-->
+	<AIRobot_RechargeStation_Cleaner_II.label>Станция Бота-Уборщика(II)</AIRobot_RechargeStation_Cleaner_II.label>
+	<AIRobot_RechargeStation_Cleaner_II.description>Данная станция оснащена специализированным базовым ботом.</AIRobot_RechargeStation_Cleaner_II.description>
+	<AIRobot_RechargeStation_Cleaner_III.label>Станция Бота-Уборщика(III)</AIRobot_RechargeStation_Cleaner_III.label>
+	<AIRobot_RechargeStation_Cleaner_III.description>Данная станция оснащена специализированным промежуточным ботом.</AIRobot_RechargeStation_Cleaner_III.description>
+	<AIRobot_RechargeStation_Cleaner_IV.label>Станция Бота-Уборщика(IV)</AIRobot_RechargeStation_Cleaner_IV.label>
+	<AIRobot_RechargeStation_Cleaner_IV.description>Данная станция оснащена специализированным продвинутым ботом.</AIRobot_RechargeStation_Cleaner_IV.description>
+	<AIRobot_RechargeStation_Cleaner_V.label>Станция Бота-Уборщика(V)</AIRobot_RechargeStation_Cleaner_V.label>
+	<AIRobot_RechargeStation_Cleaner_V.description>Данная станция оснащена специализированным ботом с Анти-Логикой.</AIRobot_RechargeStation_Cleaner_V.description>
+
+	<RPP_RechargeStation_Builder_I.label>Станция Бота-Строителя(I)</RPP_RechargeStation_Builder_I.label>
+	<RPP_RechargeStation_Builder_I.description>Данная станция оснащена специализированным простым ботом.</RPP_RechargeStation_Builder_I.description>
+	<RPP_RechargeStation_Builder_II.label>Станция Бота-Строителя(II)</RPP_RechargeStation_Builder_II.label>
+	<RPP_RechargeStation_Builder_II.description>Данная станция оснащена специализированным базовым ботом.</RPP_RechargeStation_Builder_II.description>
+	<RPP_RechargeStation_Builder_III.label>Станция Бота-Строителя(III)</RPP_RechargeStation_Builder_III.label>
+	<RPP_RechargeStation_Builder_III.description>Данная станция оснащена специализированным промежуточным ботом.</RPP_RechargeStation_Builder_III.description>
+	<RPP_RechargeStation_Builder_IV.label>Станция Бота-Строителя(IV)</RPP_RechargeStation_Builder_IV.label>
+	<RPP_RechargeStation_Builder_IV.description>Данная станция оснащена специализированным продвинутым ботом.</RPP_RechargeStation_Builder_IV.description>
+	<RPP_RechargeStation_Builder_V.label>Станция Бота-Строителя(V)</RPP_RechargeStation_Builder_V.label>
+	<RPP_RechargeStation_Builder_V.description>Данная станция оснащена специализированным ботом с Анти-Логикой.</RPP_RechargeStation_Builder_V.description>
+
+	<RPP_RechargeStation_Crafter_I.label>Станция Бота-Ремесленника(I)</RPP_RechargeStation_Crafter_I.label>
+	<RPP_RechargeStation_Crafter_I.description>Данная станция оснащена специализированным простым ботом.</RPP_RechargeStation_Crafter_I.description>
+	<RPP_RechargeStation_Crafter_II.label>Станция Бота-Ремесленника(II)</RPP_RechargeStation_Crafter_II.label>
+	<RPP_RechargeStation_Crafter_II.description>Данная станция оснащена специализированным базовым ботом.</RPP_RechargeStation_Crafter_II.description>
+	<RPP_RechargeStation_Crafter_III.label>Станция Бота-Ремесленника(III)</RPP_RechargeStation_Crafter_III.label>
+	<RPP_RechargeStation_Crafter_III.description>Данная станция оснащена специализированным промежуточным ботом.</RPP_RechargeStation_Crafter_III.description>
+	<RPP_RechargeStation_Crafter_IV.label>Станция Бота-Ремесленника(IV)</RPP_RechargeStation_Crafter_IV.label>
+	<RPP_RechargeStation_Crafter_IV.description>Данная станция оснащена специализированным продвинутым ботом.</RPP_RechargeStation_Crafter_IV.description>
+	<RPP_RechargeStation_Crafter_V.label>Станция Бота-Ремесленника(V)</RPP_RechargeStation_Crafter_V.label>
+	<RPP_RechargeStation_Crafter_V.description>Данная станция оснащена специализированным ботом с Анти-Логикой.</RPP_RechargeStation_Crafter_V.description>
+
+	<RPP_RechargeStation_ER_I.label>Станция Бота-Врача(I)</RPP_RechargeStation_ER_I.label>
+	<RPP_RechargeStation_ER_I.description>Данная станция оснащена специализированным простым ботом.</RPP_RechargeStation_ER_I.description>
+	<RPP_RechargeStation_ER_II.label>Станция Бота-Врача(II)</RPP_RechargeStation_ER_II.label>
+	<RPP_RechargeStation_ER_II.description>Данная станция оснащена специализированным базовым ботом.</RPP_RechargeStation_ER_II.description>
+	<RPP_RechargeStation_ER_III.label>Станция Бота-Врача(III)</RPP_RechargeStation_ER_III.label>
+	<RPP_RechargeStation_ER_III.description>Данная станция оснащена специализированным промежуточным ботом.</RPP_RechargeStation_ER_III.description>
+	<RPP_RechargeStation_ER_IV.label>Станция Бота-Врача(IV)</RPP_RechargeStation_ER_IV.label>
+	<RPP_RechargeStation_ER_IV.description>Данная станция оснащена специализированным продвинутым ботом.</RPP_RechargeStation_ER_IV.description>
+	<RPP_RechargeStation_ER_V.label>Станция Бота-Врача(V)</RPP_RechargeStation_ER_V.label>
+	<RPP_RechargeStation_ER_V.description>Данная станция оснащена специализированным ботом с Анти-Логикой.</RPP_RechargeStation_ER_V.description>
+
+	<RPP_RechargeStation_Kitchen_I.label>Станция Бота-Повара(I)</RPP_RechargeStation_Kitchen_I.label>
+	<RPP_RechargeStation_Kitchen_I.description>Данная станция оснащена специализированным простым ботом.</RPP_RechargeStation_Kitchen_I.description>
+	<RPP_RechargeStation_Kitchen_II.label>Станция Бота-Повара(II)</RPP_RechargeStation_Kitchen_II.label>
+	<RPP_RechargeStation_Kitchen_II.description>Данная станция оснащена специализированным базовым ботом.</RPP_RechargeStation_Kitchen_II.description>
+	<RPP_RechargeStation_Kitchen_III.label>Станция Бота-Повара(III)</RPP_RechargeStation_Kitchen_III.label>
+	<RPP_RechargeStation_Kitchen_III.description>Данная станция оснащена специализированным промежуточным ботом.</RPP_RechargeStation_Kitchen_III.description>
+	<RPP_RechargeStation_Kitchen_IV.label>Станция Бота-Повара(IV)</RPP_RechargeStation_Kitchen_IV.label>
+	<RPP_RechargeStation_Kitchen_IV.description>Данная станция оснащена специализированным продвинутым ботом.</RPP_RechargeStation_Kitchen_IV.description>
+	<RPP_RechargeStation_Kitchen_V.label>Станция Бота-Повара(V)</RPP_RechargeStation_Kitchen_V.label>
+	<RPP_RechargeStation_Kitchen_V.description>Данная станция оснащена специализированным ботом с Анти-Логикой.</RPP_RechargeStation_Kitchen_V.description>
+
+	<RPP_RechargeStation_Omni_I.label>Станция Омни-Бота(I)</RPP_RechargeStation_Omni_I.label>
+	<RPP_RechargeStation_Omni_I.description>Данная станция оснащена специализированным простым ботом.</RPP_RechargeStation_Omni_I.description>
+	<RPP_RechargeStation_Omni_II.label>Станция Омни-Бота(II)</RPP_RechargeStation_Omni_II.label>
+	<RPP_RechargeStation_Omni_II.description>Данная станция оснащена специализированным базовым ботом.</RPP_RechargeStation_Omni_II.description>
+	<RPP_RechargeStation_Omni_III.label>Станция Омни-Бота(III)</RPP_RechargeStation_Omni_III.label>
+	<RPP_RechargeStation_Omni_III.description>Данная станция оснащена специализированным промежуточным ботом.</RPP_RechargeStation_Omni_III.description>
+	<RPP_RechargeStation_Omni_IV.label>Станция Омни-Бота(IV)</RPP_RechargeStation_Omni_IV.label>
+	<RPP_RechargeStation_Omni_IV.description>Данная станция оснащена специализированным продвинутым ботом.</RPP_RechargeStation_Omni_IV.description>
+	<RPP_RechargeStation_Omni_V.label>Станция Омни-Бота(V)</RPP_RechargeStation_Omni_V.label>
+	<RPP_RechargeStation_Omni_V.description>Данная станция оснащена специализированным ботом с Анти-Логикой.</RPP_RechargeStation_Omni_V.description>
+
+</LanguageData>

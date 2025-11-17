@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<AIRobot_Hauler.label>Бот-переносчик (Ур. 1)</AIRobot_Hauler.label>
+	<AIRobot_Hauler_II.label>Бот-переносчик (Ур. 2)</AIRobot_Hauler_II.label>
+	<AIRobot_Hauler_III.label>Бот-переносчик (Ур. 3)</AIRobot_Hauler_III.label>
+	<AIRobot_Hauler_IV.label>Бот-переносчик (Ур. 4)</AIRobot_Hauler_IV.label>
+	<AIRobot_Hauler_V.label>Бот-переносчик (Ур. 5)</AIRobot_Hauler_V.label>
+
+	<AIRobot_Cleaner.label>Бот-Уборщик (Ур. 1)</AIRobot_Cleaner.label>
+	<AIRobot_Cleaner_II.label>Бот-Уборщик (Ур. 2)</AIRobot_Cleaner_II.label>
+	<AIRobot_Cleaner_III.label>Бот-Уборщик (Ур. 3)</AIRobot_Cleaner_III.label>
+	<AIRobot_Cleaner_IV.label>Бот-Уборщик (Ур. 4)</AIRobot_Cleaner_IV.label>
+	<AIRobot_Cleaner_V.label>Бот-Уборщик (Ур. 5)</AIRobot_Cleaner_V.label>
+
+	<RPP_Bot_Builder_I.label>Бот-Строитель (Ур. 1)</RPP_Bot_Builder_I.label>
+	<RPP_Bot_Builder_II.label>Бот-Строитель (Ур. 2)</RPP_Bot_Builder_II.label>
+	<RPP_Bot_Builder_III.label>Бот-Строитель (Ур. 3)</RPP_Bot_Builder_III.label>
+	<RPP_Bot_Builder_IV.label>Бот-Строитель (Ур. 4)</RPP_Bot_Builder_IV.label>
+	<RPP_Bot_Builder_V.label>Бот-Строитель (Ур. 5)</RPP_Bot_Builder_V.label>
+
+	<RPP_Bot_Crafter_I.label>Бот-Ремесленник (Ур. 1)</RPP_Bot_Crafter_I.label>
+	<RPP_Bot_Crafter_II.label>Бот-Ремесленник (Ур. 2)</RPP_Bot_Crafter_II.label>
+	<RPP_Bot_Crafter_III.label>Бот-Ремесленник (Ур. 3)</RPP_Bot_Crafter_III.label>
+	<RPP_Bot_Crafter_IV.label>Бот-Ремесленник (Ур. 4)</RPP_Bot_Crafter_IV.label>
+	<RPP_Bot_Crafter_V.label>Бот-Ремесленник (Ур. 5)</RPP_Bot_Crafter_V.label>
+
+	<RPP_Bot_ER_I.label>Бот-Врач (Ур. 1)</RPP_Bot_ER_I.label>
+	<RPP_Bot_ER_II.label>Бот-Врач (Ур. 2)</RPP_Bot_ER_II.label>
+	<RPP_Bot_ER_III.label>Бот-Врач (Ур. 3)</RPP_Bot_ER_III.label>
+	<RPP_Bot_ER_IV.label>Бот-Врач (Ур. 4)</RPP_Bot_ER_IV.label>
+	<RPP_Bot_ER_V.label>Бот-Врач (Ур. 5)</RPP_Bot_ER_V.label>
+
+	<RPP_Bot_Kitchen_I.label>Бот-Повар (Ур. 1)</RPP_Bot_Kitchen_I.label>
+	<RPP_Bot_Kitchen_II.label>Бот-Повар (Ур. 2)</RPP_Bot_Kitchen_II.label>
+	<RPP_Bot_Kitchen_III.label>Бот-Повар (Ур. 3)</RPP_Bot_Kitchen_III.label>
+	<RPP_Bot_Kitchen_IV.label>Бот-Повар (Ур. 4)</RPP_Bot_Kitchen_IV.label>
+	<RPP_Bot_Kitchen_V.label>Бот-Повар (Ур. 5)</RPP_Bot_Kitchen_V.label>
+
+	<RPP_Bot_Omni_I.label>Омни-Бот (Ур. 1)</RPP_Bot_Omni_I.label>
+	<RPP_Bot_Omni_II.label>Омни-Бот (Ур. 2)</RPP_Bot_Omni_II.label>
+	<RPP_Bot_Omni_III.label>Омни-Бот (Ур. 3)</RPP_Bot_Omni_III.label>
+	<RPP_Bot_Omni_IV.label>Омни-Бот (Ур. 4)</RPP_Bot_Omni_IV.label>
+	<RPP_Bot_Omni_V.label>Омни-Бот (Ур. 5)</RPP_Bot_Omni_V.label>
+
+
+</LanguageData>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RPP_Research_Matrix_I.label>Робототехника:\nПростая Логика</RPP_Research_Matrix_I.label>
+	<RPP_Research_Matrix_I.description>Уровень 1: Исследование производства простых роботизированных матричных модулей для создания ботов с рабочими навыками 4.</RPP_Research_Matrix_I.description>
+	<RPP_Research_Matrix_II.label>Робототехника:\nБазовая Логика</RPP_Research_Matrix_II.label>
+	<RPP_Research_Matrix_II.description>Уровень 2: Исследование производства простых роботизированных матричных модулей для создания ботов с рабочими навыками 8.</RPP_Research_Matrix_II.description>
+	<RPP_Research_Matrix_III.label>Робототехника:\nПромежуточная Логика</RPP_Research_Matrix_III.label>
+	<RPP_Research_Matrix_III.description>Уровень 3: Исследование производства простых роботизированных матричных модулей для создания ботов с рабочими навыками 13.</RPP_Research_Matrix_III.description>
+	<RPP_Research_Matrix_IV.label>Робототехника:\nПродвинутая Логика</RPP_Research_Matrix_IV.label>
+	<RPP_Research_Matrix_IV.description>Уровень 4: Исследование производства простых роботизированных матричных модулей для создания ботов с рабочими навыками 16.</RPP_Research_Matrix_IV.description>
+	<RPP_Research_Matrix_V.label>Робототехника:\nАнти-Логика\n(NP=P)</RPP_Research_Matrix_V.label>
+	<RPP_Research_Matrix_V.description>Уровень 5: Разрушайте границы, установленные существующим уровнем технологий, пониманием логики и самими концепциями причинно-следственной связи. Наши научные горизонты становятся всё более срочными. Исследование производства модулей роботизированной матрицы «Анти-логика» для создания ботов с рабочими навыками 20.</RPP_Research_Matrix_V.description>
+
+	<RPP_Research_Fundamentals.label>Робототехника:\nФундаментальные</RPP_Research_Fundamentals.label>
+	<RPP_Research_Fundamentals.description>Уровень 0:\nИсследование простейших принципов робототехники и автоматизации.</RPP_Research_Fundamentals.description>
+
+	<RPP_Research_Cleaner_All.label>Бот-Уборщик</RPP_Research_Cleaner_All.label>
+	<RPP_Research_Cleaner_All.description>Производство ботов-уборщиков. Боты-переносчики и боты-уборщики быстрее всех остальных ботов того же уровня.</RPP_Research_Cleaner_All.description>
+
+	<RPP_Research_Hauler_All.label>Бот-Переносчик</RPP_Research_Hauler_All.label>
+	<RPP_Research_Hauler_All.description>Производство ботов-переносчиков. Боты-переносчики и боты-уборщики быстрее всех остальных ботов того же уровня.</RPP_Research_Hauler_All.description>
+
+	<RPP_Research_Builder_All.label>Бот-Строитель</RPP_Research_Builder_All.label>
+	<RPP_Research_Builder_All.description>Производство строительных + горнодобывающих ботов.</RPP_Research_Builder_All.description>
+
+	<RPP_Research_Crafter_All.label>Бот-Ремесленник</RPP_Research_Crafter_All.label>
+	<RPP_Research_Crafter_All.description>Производство ремесленных ботов.</RPP_Research_Crafter_All.description>
+
+	<RPP_Research_ER_All.label>Бот-Врач</RPP_Research_ER_All.label>
+	<RPP_Research_ER_All.description>Производство врачебных ботов.</RPP_Research_ER_All.description>
+
+	<RPP_Research_Kitchen_All.label>Бот-Повар</RPP_Research_Kitchen_All.label>
+	<RPP_Research_Kitchen_All.description>Производство простого бота-повара и садовода.</RPP_Research_Kitchen_All.description>
+
+	<RPP_Research_Omni_All.label>Омни-Бот</RPP_Research_Omni_All.label>
+	<RPP_Research_Omni_All.description>Производство Омни-Ботов, совмещающих в себе функции всех остальных ботов.</RPP_Research_Omni_All.description>
+
+	<!-- <RPP_Research_Omni_I.label>OmniBot I</RPP_Research_Omni_I.label>
+	<RPP_Research_Omni_I.description>A basic-logic tier of Omnibot.</RPP_Research_Omni_I.description>
+	<RPP_Research_Omni_II.label>OmniBot II</RPP_Research_Omni_II.label>
+	<RPP_Research_Omni_II.description>A simple-logic tier of Omnibot.</RPP_Research_Omni_II.description>
+	<RPP_Research_Omni_III.label>OmniBot III</RPP_Research_Omni_III.label>
+	<RPP_Research_Omni_III.description>An intermediate-logic tier of Omnibot.</RPP_Research_Omni_III.description>
+	<RPP_Research_Omni_IV.label>OmniBot IV</RPP_Research_Omni_IV.label>
+	<RPP_Research_Omni_IV.description>An advanced-logic tier of Omnibot.</RPP_Research_Omni_IV.description>
+	<RPP_Research_Omni_V.label>OmniBot V</RPP_Research_Omni_V.label>
+	<RPP_Research_Omni_V.description>An anti-logic tier of Omnibot.</RPP_Research_Omni_V.description> -->
+
+</LanguageData>
