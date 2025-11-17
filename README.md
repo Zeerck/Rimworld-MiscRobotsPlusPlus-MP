@@ -1,3 +1,6 @@
+# Disclaimer
+- Multiplayer compatibility in testing phase. Be Careful!
+
 # [Rimworld] Misc. Robots++
 
 
